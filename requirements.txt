@@ -11,7 +11,6 @@ imagesize==1.2.0
 jinja2==2.11.3
 jinja2-time==0.2.0
 joblib==1.1.0
-jpeg==9d
 json5==0.9.6
 libpng==1.6.37
 libwebp==1.2.0
