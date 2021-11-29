@@ -18,9 +18,6 @@ $ https://github.com/FaizAlam/Vaint.git
 $ cd Vaint/
 $ tree
 .
-├── Assests
-    ├── Sample_run.mp4
-    └── iphone_Sample_run0.mp4 
 ├── Header
     ├── 1.png
     ├── 2.png
@@ -64,7 +61,6 @@ $ python3 run app.py
 - To change color/ use eraser, use index and middle fingers to select it by hovering on it.
 - Enjoy painting !
 
-### Sample Output:
 
 
 
