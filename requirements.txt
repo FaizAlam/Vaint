@@ -2,8 +2,6 @@ bitarray==2.3.0
 flask==1.1.2
 opencv-contrib-python==4.5.4.60
 opencv-python==4.5.4.60
-openjpeg==2.4.0
-openssl==1.1.1l
 numpy==1.20.3
 numpy-base==1.20.3
 mediapipe==0.8.9
