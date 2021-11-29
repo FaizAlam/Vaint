@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vaint - Virtual Air Paint</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
+    <style>
+        body{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+        }
+        h2{
+            font-family: 'Josefin Sans', sans-serif;
+        }
+
+        p{
+            font-family: 'Dancing Script', cursive;
+        }
+
+    </style>
+</head>
+<body>
+    <h2>
+        Welcome to Vaint, a virtual air paint program
+    </h2>
+    <p class="p1">powered by <span style="color: rgb(82, 82, 82);">OpenCV and MediaPipe</span></p>
+
+    <img src="{{url_for('video_feed')}}" id='bg' width="1280px" height="720px">
+    
+</body>
+</html>
