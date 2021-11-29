@@ -7,7 +7,7 @@ So go ahead and recreate your imaginations in the air !
 
 
 [![Made with Python](https://img.shields.io/badge/Made%20with%20-Python-red?style=for-the-badge&logo=python)](http://www.python.org/)
-(![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/faiz-a-0b7229b0/)[![GitHub followers](https://img.shields.io/github/followers/FaizAlam?label=Follow&style=social)](https://github.com/FaizAlam?tab=followers) [![GitHub stars](https://img.shields.io/github/stars/FaizAlam/Vaint?color=red&style=flat-square)](https://github.com/FaizAlam/Vaint/stargazers)
+[![GitHub followers](https://img.shields.io/github/followers/FaizAlam?label=Follow&style=social)](https://github.com/FaizAlam?tab=followers) [![GitHub stars](https://img.shields.io/github/stars/FaizAlam/Vaint?color=red&style=flat-square)](https://github.com/FaizAlam/Vaint/stargazers)
 ### Cloning
 Use the link below to close this repository to your machine.
 ```bash
