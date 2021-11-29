@@ -3,7 +3,6 @@ flask==1.1.2
 opencv-contrib-python==4.5.4.60
 opencv-python==4.5.4.60
 numpy==1.20.3
-numpy-base==1.20.3
 mediapipe==0.8.9
 html5lib==1.1
 imagecodecs==2021.8.26
