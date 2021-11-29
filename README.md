@@ -1,6 +1,6 @@
 # Vaint - Virtual Air Painter
 
-![[object Object]](https://socialify.git.ci/FaizAlam/Vaint/image?description=1&descriptionEditable=Virtual%20Air%20Painter&font=Inter&forks=1&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Light)
+![Vaint](https://socialify.git.ci/FaizAlam/Vaint/image?description=1&descriptionEditable=Virtual%20Air%20Painter&font=Inter&forks=1&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Light)
 
 This is an application that enables one to **vitually paint in the air** using their fingers. It is developed in python **on openCV and Mediapipe**.
 So go ahead and recreate your imaginations in the air !
